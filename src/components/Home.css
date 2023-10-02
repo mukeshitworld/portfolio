@@ -1,0 +1,72 @@
+.mainContainer{
+    padding: 10px;
+  }
+
+  h1 {
+    color: #111111;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+  p{
+    color: #111;
+    font-size: 16px;
+    line-height: 22px;
+    clear: both;
+    padding: 8px 0;
+  }
+
+
+  .profileImage {
+    width: 100px;
+   padding-right: 15px;
+   float: left;
+}
+  .profileImage img {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.coverImg{
+    width: 100%;
+    height: 100px;
+    
+}
+
+.reactImg{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+.reactImg img{
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+   
+}
+
+.resumeContainer{
+    padding: 20px;
+
+}
+
+.resumeContainer a{
+   text-decoration: none;
+   color: #111;
+   font-size: 20px;
+   font-weight: 500;
+    
+}
+.contactContainer{
+  padding: 20px;
+}
